@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CE7FtFF1qp7xkBBIWbloB3KroWUWLQkyiFU1yAavAXstHI8CdaT6zOTmaD/0tUTVzTATC7xszpTF9pr7SvxJkA==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\TestApi\\TestApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zhaonn4\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
